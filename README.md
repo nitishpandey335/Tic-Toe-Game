@@ -1,9 +1,6 @@
 <h1>Tic-Tac-Toe Game</h1>
 
 <p>A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This project allows two players to play the classic Tic-Tac-Toe game in a browser.</p>
-
-<!DOCTYPE html>
-<html>
 <head>
     <title>Tic-Tac-Toe Game - README</title>
 </head>
@@ -58,7 +55,7 @@
     <h2>Contributing</h2>
     <p>Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements.</p>
 </body>
-</html>
+
 
 
 
